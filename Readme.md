@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: sentence
----
-
 # Introducción a C
 
 ![](https://learn.microsoft.com/en-us/training/achievements/csharp-write-first.svg)
