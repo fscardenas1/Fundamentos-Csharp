@@ -1,4 +1,4 @@
-# Introducción a C
+# Introducción a C#
 
 ![](https://learn.microsoft.com/en-us/training/achievements/csharp-write-first.svg)
 
@@ -49,7 +49,7 @@ Algunas actividades para aprender a usar Visual Studio incluyen:
 -   Utilizar la ventana de salida y la ventana de errores para obtener información y solucionar problemas.
 -   Explorar las características adicionales de Visual Studio, como el control de versiones, la generación de documentación y la publicación de aplicaciones.
 
-## Hola Mundo! en C
+## Hola Mundo! en C#
 
 ```{ccharp}
 
@@ -63,3 +63,8 @@ class Program
     }
 }
 ```
+**Creado por:** Diego Saavedra.
+
+**Institución:** Universidad de las Fuerzas Armadas ESPE.
+
+**Departamento:** Ciencias de la Computación.
